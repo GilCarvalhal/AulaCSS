@@ -1,5 +1,11 @@
 html {
-  color: #000000;
-  background-color: #aaf;
-  background: #ffa;
+  color: #ee0000;
+  background-color: #000;
+}
+
+main {
+  background-color: #fff;
+}
+.titulo-aula {
+  background-color: #868733;
 }
