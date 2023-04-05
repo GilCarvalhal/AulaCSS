@@ -2,7 +2,8 @@ html {
   color: #ee0000;
   background-color: #000;
   background-image: url("./cachorros-com-seus-livros-20.jpg");
-  background-repeat: repeat-x;
-  height: 100vh;
+  background-repeat: no-repeat;
   background-position: center;
+  height: 100vh;
+  background-size: cover;
 }
