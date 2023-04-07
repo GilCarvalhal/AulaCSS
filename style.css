@@ -1,7 +1,4 @@
 main {
-font-weight: bold;
-/* font-weight: bolder; */
-/* font-weight: lighter; */
-/* font-weight: normal; */
-/* font-weight: 700; */
+  /* font-variant: small-caps; */
+  font-variant: all-small-caps;
 }
