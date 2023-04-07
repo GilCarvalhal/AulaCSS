@@ -1,9 +1,6 @@
-html {
-  color: #ee0000;
-  background-color: #000;
-  background-image: url("./cachorros-com-seus-livros-20.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100vh;
-  background-size: cover;
+main {
+  /* font-family: "Times New Roman", serif; */
+  font-family: sans-serif;
+  /* font-family: cursive; */
+  /* font-family: fantasy; */
 }
