@@ -1,7 +1,9 @@
-main {
-font-family: sans-serif;
+main p {
+  text-align: left;
 }
 
-main p {
-  text-indent: 2rem;
+h1,
+h2,
+h3 {
+  text-align: center;
 }
