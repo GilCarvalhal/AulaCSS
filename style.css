@@ -2,26 +2,22 @@
   box-sizing: border-box;
   width: 5rem;
   height: 5rem;
-  border: 3px dotted #000;
-  border-radius: 20px;
+  border: 0.3rem solid yellow;
+  padding: 0.7rem;
+  margin: 10px 0 5px 10px;
 }
 
 .vermelho {
   background-color: red;
-  border-width: 0.5rem;
-  border-bottom-width: 0;
-  border-style: dashed;
+  margin-top: 0px;
 }
 
 .azul {
   background-color: blue;
-  border-width: 10px 0 5px 3px;
-  border-bottom-style: double;
-  border-radius: 0 0 50px 10px;
+  margin-bottom: 50px;
 }
 
 .verde {
   background-color: green;
-  border-style: solid;
-  border-top-left-radius: 50px;
+  margin-left: 0;
 }
