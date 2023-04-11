@@ -1,3 +1,18 @@
-a:hover {
-  color: #aaff33;
+.box {
+  box-sizing: border-box;
+  width: 5rem;
+  height: 5rem;
+  display: block;
+}
+
+.vermelho {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.verde {
+  background-color: green;
 }
