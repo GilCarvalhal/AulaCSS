@@ -3,6 +3,7 @@
   width: 5rem;
   height: 5rem;
   border: 3px dotted #000;
+  border-radius: 20px;
 }
 
 .vermelho {
@@ -16,9 +17,11 @@
   background-color: blue;
   border-width: 10px 0 5px 3px;
   border-bottom-style: double;
+  border-radius: 0 0 50px 10px;
 }
 
 .verde {
   background-color: green;
   border-style: solid;
+  border-top-left-radius: 50px;
 }
