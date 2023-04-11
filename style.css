@@ -2,9 +2,7 @@
   box-sizing: content-box;
   width: 5rem;
   height: 5rem;
-  color: white;
-  font-size: 3rem;
-  padding: 5px 2px 3px 10px;
+  border: 3px solid #000;
 }
 
 .vermelho {
